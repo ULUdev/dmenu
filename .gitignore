@@ -1,0 +1,7 @@
+*.o
+*.diff
+stest
+dmenu
+dmenu-0.5.tar.gz
+*.orig
+*.rej
